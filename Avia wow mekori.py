@@ -1,3 +1,2 @@
 def print_funny_story():
-    print("I I I")
-    print("000000000000000000000000000000000000000")
+    print("When I was two years old I ate pancakes with ketchup. I liked it.")
